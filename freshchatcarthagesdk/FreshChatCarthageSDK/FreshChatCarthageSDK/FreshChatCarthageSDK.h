@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "Freshchat.h"
 
 //! Project version number for FreshChatCarthageSDK.
 FOUNDATION_EXPORT double FreshChatCarthageSDKVersionNumber;
