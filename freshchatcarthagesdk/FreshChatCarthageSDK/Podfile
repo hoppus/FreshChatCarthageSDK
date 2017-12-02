@@ -3,6 +3,6 @@ platform :ios, '9.0'
 
 target 'FreshChatCarthageSDK' do
   use_frameworks!
-  pod 'FreshchatSDK', '1.1.1'
+  pod 'FreshchatSDK', '1.2.2'
 
 end
